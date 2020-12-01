@@ -1,0 +1,16 @@
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\bin\Debug\net5.0\Task_1.exe
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\bin\Debug\net5.0\Task_1.deps.json
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\bin\Debug\net5.0\Task_1.runtimeconfig.json
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\bin\Debug\net5.0\Task_1.runtimeconfig.dev.json
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\bin\Debug\net5.0\Task_1.dll
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\bin\Debug\net5.0\ref\Task_1.dll
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\bin\Debug\net5.0\Task_1.pdb
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.csprojAssemblyReference.cache
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.AssemblyInfo.cs
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.dll
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\ref\Task_1.dll
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.pdb
+C:\Users\olzab\Desktop\edu\Architecture\Task_1\Task_1\obj\Debug\net5.0\Task_1.genruntimeconfig.cache
